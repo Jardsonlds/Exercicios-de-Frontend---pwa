@@ -1,0 +1,16 @@
+.verificarIdade {
+  display: flex;
+  justify-content: center;
+  color: rgb(240, 216, 7);
+  margin: 16px;
+  padding: 10px; /* Adicionei padding para melhor visualização */
+  border-radius: 5px; /* Bordas arredondadas */
+}
+
+.maior {
+  background-color: green; /* Cor para maior de idade */
+}
+
+.menor {
+  background-color: red; /* Cor para menor de idade */
+}

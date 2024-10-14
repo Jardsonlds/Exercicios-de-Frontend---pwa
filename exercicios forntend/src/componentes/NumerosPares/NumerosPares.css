@@ -1,0 +1,7 @@
+.numeros-pares {
+    background-color: blue; 
+    color: yellow;
+    list-style-type: none; 
+    padding: 10px; 
+    border-radius: 5px; 
+  }

@@ -1,0 +1,12 @@
+.lista-produtos {
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+    list-style-type: none; 
+    border-radius: 5px;
+  }
+  
+  .lista-produtos li {
+    margin: 5px 0;
+  }
+  

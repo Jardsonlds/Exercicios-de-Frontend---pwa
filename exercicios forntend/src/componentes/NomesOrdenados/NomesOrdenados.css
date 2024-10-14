@@ -1,0 +1,13 @@
+.nomes-ordenados {
+    background-color: pink; 
+    color: red; 
+    padding: 20px;
+    border-radius: 8px;
+    margin: 10px 0;
+    list-style-type: none; 
+  }
+  
+  .nomes-ordenados li {
+    margin: 5px 0; 
+  }
+  
